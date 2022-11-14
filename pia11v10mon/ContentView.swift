@@ -72,3 +72,4 @@ struct ContentView_Previews: PreviewProvider {
 }
 
 // Skriver ny kod som inte funkar så bra
+// Mer dålig kod
