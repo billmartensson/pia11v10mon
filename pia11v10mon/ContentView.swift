@@ -7,6 +7,8 @@
 
 import SwiftUI
 
+// Fixa publicerad version
+
 struct ContentView: View {
     
     @State var firstname = "Torsten"
