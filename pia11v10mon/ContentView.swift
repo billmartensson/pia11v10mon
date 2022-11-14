@@ -70,3 +70,5 @@ struct ContentView_Previews: PreviewProvider {
         ContentView().environment(\.locale, .init(identifier: "en"))
     }
 }
+
+// Skriver ny kod som inte funkar så bra
