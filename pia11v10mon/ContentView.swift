@@ -13,7 +13,7 @@ import SwiftUI
 
 struct ContentView: View {
     
-    @State var firstname = "Torsten"
+    @State var firstname = "Bartil"
     
     @State var number = 0.0
     
