@@ -9,6 +9,8 @@ import SwiftUI
 
 // Fixa publicerad version
 
+// Bill kodar kod!!
+
 struct ContentView: View {
     
     @State var firstname = "Torsten"
